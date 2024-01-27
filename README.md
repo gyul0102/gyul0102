@@ -1,8 +1,8 @@
 ### Hello I'm Joanne Chae 👋
 
 ### R Projects
-- [Analysis of Predictors of Spotify Song Popularity] (https://github.com/sta210-fa23/project-JoCiAnDa)
-- [That's a hit: Examining Key Variables in Hit Songs] (https://github.com/sta199-s23-2/project-auto-as)
+- [Analysis of Predictors of Spotify Song Popularity](https://github.com/sta210-fa23/project-JoCiAnDa)
+- [That's a hit: Examining Key Variables in Hit Songs](https://github.com/sta199-s23-2/project-auto-as)
 
 <!--
 **gyul0102/gyul0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
