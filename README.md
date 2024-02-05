@@ -4,6 +4,9 @@
 - [Analysis of Predictors of Spotify Song Popularity](https://github.com/sta210-fa23/project-JoCiAnDa)
 - [That's a hit: Examining Key Variables in Hit Songs](https://github.com/sta199-s23-2/project-auto-as)
 
+### Java Project
+- [Autocomplete](https://coursework.cs.duke.edu/jc940/p4-autocomplete)
+
 Please Email Me for Access
 
 <!--
